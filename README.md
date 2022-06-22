@@ -4,6 +4,9 @@ This is a url shortener API, build with Ruby On Rails 6.
 
 > App is deployed [here](https://url-shortener-prateekcodes.herokuapp.com/)
 
+### Screenshot
+<img width="1438" alt="Screenshot 2022-06-22 at 7 05 28 PM" src="https://user-images.githubusercontent.com/25227096/175042317-9a9490d5-3064-4432-8033-f79a1718f899.png">
+
 ## How to use `URL-Shortner`
 
 1. Clone the repository by running the following command
